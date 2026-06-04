@@ -1,26 +1,30 @@
-# AtomRearch Lab
+## AtomRearch Lab 🔋
 
-**Battery materials · Data-driven electrochemistry · AI for energy storage**
-
+Battery materials · Data-driven electrochemistry · AI for energy storage  
 Xi'an Jiaotong University — Prof. Yu Kai's Group
 
 ---
 
-## Open-source Projects
+### Open-source Projects
 
-| Repository | Description |
-|------------|-------------|
-| [neware-batch-export](https://github.com/AtomRearch/neware-batch-export) | Batch-export Neware `.ndax` files to full 8-sheet `.xlsx` for ML datasets — GUI tool with cycle-mode selection, parallel processing and email notifications |
+**🛠️ [neware-batch-export](https://github.com/AtomRearch/neware-batch-export)**  
+Batch-export Neware `.ndax` files to full 8-sheet `.xlsx` — solves the data truncation problem in BTS built-in batch export. Designed for building ML-ready battery datasets at scale.
+
+**🎨 [AtomSketch](https://github.com/AtomRearch/AtomSketch)**  
+Publication-quality matplotlib styling for battery research figures. One file, drop it into Claude / Cursor / Copilot — every plot comes out *Nature*/*Science* ready.
+
+**📝 [AtomPub](https://github.com/AtomRearch/AtomPub)**  
+A journal-styled academic writing platform for op-eds, method write-ups, reading notes, and data notes. Permanent URLs, citable IDs, open contributions.
 
 ---
 
-## Research Focus
+### Research Focus
 
-- Lithium metal anode / solid-state electrolytes
+- Lithium metal anodes · solid-state electrolytes
 - High-entropy electrode materials
-- Battery degradation mechanisms & lifetime prediction
+- Battery degradation & lifetime prediction
 - Large-scale experimental datasets for machine learning
 
 ---
 
-<sub>Xi'an Jiaotong University · School of Materials Science and Engineering</sub>
+<sub>School of Materials Science and Engineering · Xi'an Jiaotong University</sub>
