@@ -1,7 +1,7 @@
-## AtomRearch Lab 🔋
+## AtomRearch 🔋
 
 Battery materials · Data-driven electrochemistry · AI for energy storage  
-Xi'an Jiaotong University — Prof. Yu Kai's Group
+
 
 ---
 
@@ -22,9 +22,7 @@ A journal-styled academic writing platform for op-eds, method write-ups, reading
 
 - Lithium metal anodes · solid-state electrolytes
 - High-entropy electrode materials
-- Battery degradation & lifetime prediction
-- Large-scale experimental datasets for machine learning
+- ...
 
 ---
 
-<sub>School of Materials Science and Engineering · Xi'an Jiaotong University</sub>
