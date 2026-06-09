@@ -2,6 +2,10 @@
 
 Battery materials · Data-driven electrochemistry · AI for energy storage  
 
+[![visitors](https://komarev.com/ghpvc/?username=AtomRearch&label=visitors&color=0e75b6&style=flat)](#)
+[![followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FAtomRearch&query=%24.followers&label=followers&color=blue&style=flat)](#)
+[![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FAtomRearch&query=%24.public_repos&label=public%20repos&color=blue&style=flat)](#)
+[![X](https://img.shields.io/badge/X-%40AtomRearch-black?logo=x&style=flat)](https://x.com/AtomRearch)
 
 ---
 
@@ -26,4 +30,13 @@ A journal-styled academic writing platform for op-eds, method write-ups, reading
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=AtomRearch&label=visitors&color=0e75b6&style=flat)
+![battery](https://img.shields.io/badge/battery-FF6B6B?style=flat-square)
+![electrochemistry](https://img.shields.io/badge/electrochemistry-4ECDC4?style=flat-square)
+![energy-storage](https://img.shields.io/badge/energy%20storage-45B7D1?style=flat-square)
+![lithium-anode](https://img.shields.io/badge/lithium%20anode-F7DC6F?style=flat-square)
+![solid-state-electrolyte](https://img.shields.io/badge/solid--state%20electrolyte-82E0AA?style=flat-square)
+![high-entropy](https://img.shields.io/badge/high--entropy-D7BDE2?style=flat-square)
+![machine-learning](https://img.shields.io/badge/machine%20learning-85C1E9?style=flat-square)
+![data-science](https://img.shields.io/badge/data--driven-52B788?style=flat-square)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=python)
+![open-science](https://img.shields.io/badge/open%20science-27AE60?style=flat-square)
