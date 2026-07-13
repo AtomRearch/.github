@@ -20,6 +20,42 @@ Publication-quality matplotlib styling for battery research figures. One file, d
 **📝 [AtomPub](https://github.com/AtomRearch/AtomPub)**  
 A journal-styled academic writing platform for op-eds, method write-ups, reading notes, and data notes. Permanent URLs, citable IDs, open contributions.
 
+**🧠 [AtomBrief](https://github.com/AtomRearch/AtomBrief)**  
+Personal information metabolism: RSS capture → keyword hard-filter → AI distillation into knowledge atoms → auto-built weekly report site. What you missed is what you didn't need.
+
+**🗂️ [AtomGrid](https://github.com/AtomRearch/AtomGrid)**  
+Rosetta v0.1 — a machine-readable JSON Schema for Li–Cu half-cell cycling data, with browser validator. Battery data standardization as infrastructure.
+
+---
+
+### Project Timeline
+
+```mermaid
+gantt
+    title Atom Matrix — Public Project Timeline (2026)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d
+
+    section Information Flow
+    AtomFeed — literature tracking engine        :active, feed, 2026-04-29, 2026-06-05
+    AtomBrief v1.0 — personal info metabolism    :milestone, brief, 2026-07-13, 0d
+
+    section Data Standards
+    AtomGrid — Rosetta v0.1 (HC Li-Cu schema)    :done, grid, 2026-05-06, 2026-05-14
+
+    section Publishing
+    AtomPub — journal-styled platform            :active, pub, 2026-05-06, 2026-07-13
+    Password-protected posts shipped             :milestone, prot, 2026-07-13, 0d
+
+    section Instrument Tools
+    neware-batch-export — ndax to xlsx           :done, neware, 2026-06-04, 2026-06-11
+
+    section Incubating
+    AtomSim / AtomRender / AtomSilo / AtomFlow / AtomShield :incub, 2026-05-06, 2026-07-13
+```
+
+<sub>Bars span first commit → latest push. Incubating repos hold roadmap READMEs; code lands after internal validation. [AtomFeed](https://github.com/eRearch/AtomFeed) lives on the founder's account with its [product page](https://erearch.github.io/AtomFeed/).</sub>
+
 ---
 
 ### Research Focus
